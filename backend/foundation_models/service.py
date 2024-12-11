@@ -3,7 +3,7 @@ import boto3
 
 bedrock_client = boto3.client(
     service_name="bedrock",
-    region_name="eu-west-1"
+    region_name="eu-west-2"
 )
 
 
